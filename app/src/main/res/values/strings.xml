@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Task_ViewPage</string>
+    <string name="one">ONE</string>
+    <string name="material_tabs">MATERIAL TABS</string>
+    <string name="simple_tabs">SIMPLE TABS</string>
+    <string name="scrollable_tabs">SCROLLABLE TABS</string>
+    <string name="icon_text_tabs">ICON TEXT TABS</string>
+    <string name="only_icon_tabs">ONLY ICON TABS</string>
+    <string name="custom_view_icon_tag">CUSTOM VIEW ICON TAG</string>
+    <string name="two">TWO</string>
+    <string name="scrollable">SCROLLABLE</string>
+    <string name="three">THREE</string>
+    <string name="four">FOUR</string>
+    <string name="five">FIVE</string>
+    <string name="six">SIX</string>
+    <string name="one">ONE</string>
+</resources>

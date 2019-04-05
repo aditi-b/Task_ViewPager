@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/material_tabs"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/text_size" />
+
+    </android.support.v7.widget.Toolbar>
+
+    <Button
+        android:id="@+id/button1"
+        style="@style/TextTheme"
+        android:text="@string/simple_tabs" />
+
+    <Button
+        android:id="@+id/button2"
+        style="@style/TextTheme"
+        android:text="@string/scrollable_tabs" />
+
+    <Button
+        android:id="@+id/button3"
+        style="@style/TextTheme"
+        android:text="@string/icon_text_tabs" />
+
+    <Button
+        android:id="@+id/button4"
+        style="@style/TextTheme"
+        android:text="@string/only_icon_tabs" />
+
+    <Button
+        android:id="@+id/button5"
+        style="@style/TextTheme"
+        android:text="@string/custom_view_icon_tag" />
+
+
+</LinearLayout>
